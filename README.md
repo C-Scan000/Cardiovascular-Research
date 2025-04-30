@@ -16,7 +16,7 @@ Resting Blood Pressure    'restingBP'      (94 - 200 mmHG (systolic))
 
 Serum Cholesterol    'serumcholesterol'    (124 - 200 mg/dl)
 
-Fasting Blood Sugar    'restingelectro'   (0 = <=120mg/dl, 1 = >120mg/dl)
+Fasting Blood Sugar    'fastingbloodsugar'   (0 = <=120mg/dl, 1 = >120mg/dl)
 
 Chest Pain Type    'chestpain'    (0 - typical angina, 1 - atypical angina, 2 - non-anginal pain, 3 - asymptomatic
 
