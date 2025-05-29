@@ -22,7 +22,7 @@ Fasting Blood Sugar    'fastingbloodsugar'   (0 = <=120mg/dl, 1 = >120mg/dl)
 
 Chest Pain Type    'chestpain'    (0 - typical angina, 1 - atypical angina, 2 - non-anginal pain, 3 - asymptomatic
 
-Resting Electrocardiogram results    'restingelectro'          (0 = normal, 1 = ST - T wave abnormality (T wave inversions and/or ST elevation or depressions of >0.05mV), 2 = showing probable or definite left ventricular hypertrophy by Estes' criteria
+Resting Electrocardiogram results    'restingelectro'          (0 = normal, 1 = ST - T wave abnormality (T wave inversions and/or ST elevation or depressions of >0.05mV), 2 = showing probable or definite left ventricular hypertrophy by Estes' criteria)
 
 Maximum Heart Rate Achieved 'maxheartrate' (71-202bpm)
 
